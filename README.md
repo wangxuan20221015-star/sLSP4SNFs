@@ -80,4 +80,5 @@ MIT License
 If you use **sLSP4SNF** in your research, please cite:
 
 > Wang, Xuan, Zong, Weikai, et al. 2025.
+> 
 > Mo Yanqi, Zong, Weikai, et al. 2026.
