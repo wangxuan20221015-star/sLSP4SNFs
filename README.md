@@ -3,7 +3,7 @@
 
 **sLSP4SNF** is a Python package for identifying **super-Nyquist frequencies (SNFs)** in stellar photometric time series using the **sliding Lomb–Scargle periodogram (sLSP)** technique.
 
-The package is designed for asteroseismic studies based on space photometry from **Kepler**, **TESS**, and future missions such as **PLATO** **ET2.0**.
+The package is designed for asteroseismic studies based on space photometry from **Kepler**, **TESS**, and future missions such as **PLATO**, **ET2.0**.
 
 ---
 
